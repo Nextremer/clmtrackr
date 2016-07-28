@@ -1329,5 +1329,15 @@ var clm = {
 		})();
 		
 		return true;
+	},
+	models: {
+		pca10Mosse: pModelPca10Mosse,
+		pca10Svm: pModelPca10Svm,
+		pca20Mosse: pModelPca20Mosse,
+		pca20Svm: pModelPca20Svm,
+		spca10Svm: pModelSpca10Svm,
+		spca20Svm: pModelSpca20Svm,
 	}
 }
+
+module.exports = clm;

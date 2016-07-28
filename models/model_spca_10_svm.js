@@ -1,4 +1,4 @@
-var pModel = {
+var pModelSpca10Svm = {
   "scoring": {
     "size": [20, 22], 
     "bias": -1.3970965781063711, 

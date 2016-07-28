@@ -7,6 +7,12 @@ module.exports = function(grunt) {
 			dist: {
 				src: [
 						'js/license.js',
+						'models/model_pca_10_mosse.js',
+						'models/model_pca_10_svm.js',
+						'models/model_pca_20_mosse.js',
+						'models/model_pca_20_svm.js',
+						'models/model_spca_10_svm.js',
+						'models/model_spca_20_svm.js',
 						'js/clm.js',
 						'js/svmfilter_webgl.js',
 						'js/svmfilter_fft.js',

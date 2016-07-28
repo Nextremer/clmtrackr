@@ -1,11 +1,14 @@
 {
+  "name": "clmtrackr",
+  "main": "./clmtrackr.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/auduno/clmtrackr.git"
+    "url": "https://github.com/Nextremer/clmtrackr"
   },
   "devDependencies": {
     "grunt": "~0.4.2",
     "grunt-contrib-concat": "~0.3.0",
     "grunt-contrib-uglify": "~0.2.7"
-  }
+  },
+  "version": "0.0.1"
 }
