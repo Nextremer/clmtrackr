@@ -1,5 +1,6 @@
 {
   "name": "clmtrackr",
+  "main": "./clmtrackr.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/Nextremer/clmtrackr"
