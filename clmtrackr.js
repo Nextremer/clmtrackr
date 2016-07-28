@@ -1343,6 +1343,9 @@ var clm = {
 		return true;
 	}
 }
+
+module.exports = clm;
+
 "use strict";
 
 var webglFilter = function() {

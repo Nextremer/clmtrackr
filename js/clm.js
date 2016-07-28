@@ -1331,3 +1331,5 @@ var clm = {
 		return true;
 	}
 }
+
+module.exports = clm;
