@@ -19,6 +19,12 @@ module.exports = function(grunt) {
 						'examples/ext_js/frontalface.js',
 						'examples/ext_js/jsfeat_detect.js',
 						'examples/ext_js/mosse.js',
+						'models/model_pca_10_mosse.js',
+						'models/model_pca_10_svm.js',
+						'models/model_pca_20_mosse.js',
+						'models/model_pca_20_svm.js',
+						'models/model_spca_10_svm.js',
+						'models/model_spca_20_svm.js',
 						],
 				dest: './clmtrackr.js'
 			}
